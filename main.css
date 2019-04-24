@@ -178,10 +178,10 @@ a{
     font-weight:700;
     color:#040206;
     margin: 1vh 0;
-    margin-right:1vh; 
+    margin-right:1vh;
 }
 
-.side-nav:hover{
+/* .side-nav:hover{
     background:#040206;
     color:#BB80DB;
 }
@@ -189,12 +189,11 @@ a{
 .side-nav:hover a {
     background:#040206;
     color:#BB80DB;
-}
+} */
 
 .top-area-container{
     height: 88vh;
     width:100%;
-    background:red;
     margin: 0 auto;
     display:inline-block;
 }
@@ -206,7 +205,7 @@ a{
     float:left;
 }
 
-.nav1:hover{
+/* .nav1:hover{
     background:#040206;
     color:#BB80DB;
 }
@@ -214,12 +213,24 @@ a{
 .nav1:hover a{
     background:#040206;
     color:#BB80DB;
-}
+} */
 
-.vantajs {
+/* .vantajs {
     height:88vh;
     overflow:hidden;
     margin: 0 auto;
+} */
+
+.home-highlighted {
+    background:#040206;
+    display:inline-block;
+    width:100%;
+}
+
+.home-highlighted a{
+    color:#BB80DB!important;
+    cursor:auto;
+    
 }
 
 
